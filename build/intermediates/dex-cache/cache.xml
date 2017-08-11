@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ba41abf9a48d936fc166facfc1dd211c2489654">
+        <dex dex="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9755684ed869eade1f7d827b1b27a8d92d46aa50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c3c642c5ea32800f505d58606977d6de43d9ae49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/me/.android/build-cache/245584bb9bf92f96c327405cbea752987456fd7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/pre-dexed/debug/classes_efc7f4210ca4ae05fc7beead263ad3da1798436b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/me/.android/build-cache/cf97e5a74a04e08543f34fd2be735306046f1b1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/pre-dexed/debug/classes_2f8bdffd610ef876adcfaf6ccb1dab12b75066bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/me/.android/build-cache/94f5080744e3cf4e3edea054fa353cab13d3a572/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/me/Desktop/Workspace/Tutorial/app/build/intermediates/pre-dexed/debug/classes_ea9a436aa167a693b9b5ca04b5ee3c292214950f.jar" />
+    </item>
+
+</items>
